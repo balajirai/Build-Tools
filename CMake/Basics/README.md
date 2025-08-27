@@ -6,7 +6,7 @@
 ```bash
 cd build/
 ```
-### 2. Run cmake command
+### 2. Run `cmake` command
 ```bash
 cmake ..
 ```
@@ -15,7 +15,7 @@ This will create a `Makefile`
 > [!Note]
 > The `..` indicates that the `CMakeLists.txt` is in the parent directory.
 
-### 3. Run make command
+### 3. Run `make` command
 ```bash
 make
 ```
