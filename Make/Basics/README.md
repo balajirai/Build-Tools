@@ -1,4 +1,4 @@
-# Basic
+# Basics
 
 ## Build
 ```bash
