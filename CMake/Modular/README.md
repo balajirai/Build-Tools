@@ -2,7 +2,7 @@
 
 ```swift
 Modular/
-│── CMakeList.txt
+│── CMakeLists.txt
 │── header/
 │     └── util.h
 │── src/
