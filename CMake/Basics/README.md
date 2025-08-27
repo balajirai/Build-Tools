@@ -19,7 +19,7 @@ This will create a `Makefile`
 ```bash
 make
 ```
-This will generate a executable (binary) `app`
+This will generate an executable (binary) `app`
 
 ## Run
 ```bash
