@@ -1,0 +1,13 @@
+# Cmake Builds
+build/*
+
+# But keep the placeholder file
+!build/.gitkeep
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode / IDE settings
+.vscode/
+.idea/

@@ -1,4 +1,15 @@
-# Basics
+# Organized Project (Modular)
+
+```swift
+Modular/
+│── CMakeList.txt
+│── header/
+│     └── util.h
+│── src/
+│     ├── main.cpp
+│     └── util.cpp
+│── build/
+```
 
 ## Build
 
